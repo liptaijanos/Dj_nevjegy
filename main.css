@@ -18,6 +18,7 @@ body {
   border-radius: 0.1rem;
   box-shadow: hsla(0, 0%, 0%, .8) 10px 10px 80px;
   background-color: hsla(20, 100%, 10%, .5);
+  margin-top: 30vh;
 }
 body {
   display: flex;
